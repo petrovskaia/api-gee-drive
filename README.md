@@ -1,6 +1,9 @@
 
-# api-gee-drive
-<b>Download satellite images from Google Earth Engine API to Google Drive<b>
+# Download satellite images from Google Earth Engine API to Google Drive with Google Cloud platform
+This repo helps in using Google Cloud instruments: Google Earth Engine API and Google Drive API
+
+To create APIs on Google Cloud, please refer to this link 
+https://developers.google.com/earth-engine/cloud
 
 You can use parser (gee_download_parser.py) from linux command line.
 Parser usage example:
