@@ -1,5 +1,5 @@
-# api-gee-drive
-Download satellite images from Google Earth Engine API to Google Drive
+# Google-EE-Drv
+Download satellite images from Google Earth Engine
 
 Parser usage example:
 <pre><code>
